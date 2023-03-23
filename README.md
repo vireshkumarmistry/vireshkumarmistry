@@ -1,3 +1,5 @@
+<h1> Viresh Mistry </h1>
+
 I am Viresh Mistry. I am a competent, vibrant, and promising web developer with a deep passion for programming and problem-solving in multiple technology disciplines. My experience across is enriching, as I’ve had the pleasure to work on a range of projects. i have gained expertise with MERN stack and I am sure I will be the best fit for the projects
 
 Some highlights of my experience and skills attained over the due course:
